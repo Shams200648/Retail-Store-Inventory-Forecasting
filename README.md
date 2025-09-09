@@ -1,1 +1,1 @@
-# CSE303-Research-Paper
+# This is the research paper about --> Retail Store Inventory Forecasting
